@@ -1,0 +1,10 @@
+package com.mikeandzoya
+
+class QuoteController {
+
+    def index() { }
+
+    def home() {
+        render "<h1>something</h1>"
+    }
+}
